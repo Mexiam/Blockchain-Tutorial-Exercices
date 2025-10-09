@@ -1,0 +1,20 @@
+{
+  "name": "my-nft-app",
+  "version": "1.0.0",
+  "description": "NFTs for course credits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Maxime",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "dotenv": "^17.2.3"
+  }
+}
