@@ -6,7 +6,9 @@ It includes scripts for Proof-of-Work simulation, Solidity smart contracts, and 
 ## 📁 Project Structure
 lab/
  ├── lab5/               → Proof-of-Work scripts
+
  ├── lab6/               → Storage and Gas analysis
+ 
  └── lab9-10/my-nft-app/ → NFT contract and minting scripts
 
 Files at root:
