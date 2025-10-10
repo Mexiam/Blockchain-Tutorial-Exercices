@@ -13,7 +13,7 @@ lab/
  └── lab9-10/my-nft-app/ → NFT contract and minting scripts
 
 Files at root:
-- `Exercice1.ipynb`, `Exercice2.ipynb`, `Exercice3.ipynb`, `Report.pdf`: modified or new code to answers for each exercise set
+- `Exercice1.ipynb`, `Exercice2.ipynb`, `Exercice2.sol`, `Exercice3.ipynb`, `Report.pdf`: modified or new code to answers for each exercise set
 - `README.md`: this file
 
 
