@@ -1,6 +1,6 @@
 # Blockchain-Tutorial-Exercices
 
-This repository contains my solutions to blockchain exercises from Tutorials 5, 6, 9 and 10, and modified code to answer all questions.
+This repository contains my solutions to blockchain exercises from lab 5, 6, 9 and 10, and modified code to answer all questions of the assignment.
 It includes scripts for Proof-of-Work simulation, Solidity smart contracts, and NFT minting with Alchemy.
 
 ## 📁 Project Structure
