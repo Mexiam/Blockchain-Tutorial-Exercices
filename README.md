@@ -28,5 +28,3 @@ Files at root:
 - Deployed `courseNFT.sol` to testnet
 - Implemented `mint-nft.js` to mint random NFTs using IPFS metadata
  *Please note that for exercice 3 I used network Sepolia instead of Goerli like recommanded because Goerli is down since 2024 now.*
-
-
