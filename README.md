@@ -30,4 +30,5 @@ Files at root:
 ### Exercise 3 — NFTs
 - Deployed `courseNFT.sol` to testnet. *Please note that for exercice 3 I used network Sepolia instead of Goerli like recommanded because Goerli is down since 2024 now.*
 - Implemented `mint-nft.js` to mint random NFTs using IPFS metadata
- 
+
+Please note that there is a collaborator issue. I completed the exercises alone, but due to a push from another project, a collaborator was mistakenly added to this repository and I cannot remove them. Any pushes made after the assignment’s due date were caused by this mistake. You can still verify that I worked on this project alone by checking the commit history, which shows my contributions and the date of my last actual push. I apologize for this error.
